@@ -1,0 +1,53 @@
+Lista Studentave
+Orari mesimore 9:30
+Profa : Fatos Maxhuni
+Lenda : SHKI
+Klasa : 002
+Emri dhe Mbiemri
+ID Nenshkrimi
+Amjr Rrahmani
+171841111
+Lean Paqarada
+171841112 m
+Mérgim Vojvoda
+171841113
+Ardin Dallku
+171841114 W
+Fidan Aliti
+171841115
+Hekuran Kryeziu
+171841116
+Idriz Voca
+171841117
+Herolind Shala
+171841118
+Gjelbrim Taipi
+171841119
+Edon Zhegrova
+161731110
+Arbér Zeneli
+171842000
+Bernard Berisha
+161732001
+Bersant Celina
+161732002
+Milot Rashica
+171843101
+Elbasan Rashani
+171842004
+Atdhe Nuhiu
+141532005
+Vedat Muriqi
+171842006
+Donis Avdijaj
+161732007 WW
+Erton Fejzullahu
+161743102
+Lirim Kastrati
+171842009
+Benjamin Kololli
+171843101
+Alban Pnishi
+161743102
+Besar Musolli
+171843103
